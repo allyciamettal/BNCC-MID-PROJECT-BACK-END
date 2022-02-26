@@ -1,0 +1,66 @@
+.banner {
+    background: #FA7A35;
+    color: white;
+    padding: 50px;
+    text-align: center;
+}
+
+.banner>h1 {
+    font-size: xx-large;
+}
+
+.banner>p {
+    font-size: large;
+}
+
+.tombol-manage {
+    background: white;
+}
+
+.collection {
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    background: #00758F;
+    color: white;
+}
+
+.collection>.judul {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.collection>.penulis {
+    font-size: 17pxpx;
+}
+
+.collection>.halaman {
+    font-size: 15px;
+}
+
+.collection>.tahun {
+    font-size: 15px;
+}
+
+.manage-wrapper1 {
+    background: #FA7A35;
+    color: white;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.manage-wrapper2 {
+    background: #f6ce9a;
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 15px;
+}
+
+.inputerror {
+    font: 5px;
+    color: red;
+}
+
+.koleksi-manage {
+    text-align: center;
+}
